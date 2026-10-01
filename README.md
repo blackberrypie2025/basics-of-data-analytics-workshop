@@ -43,10 +43,6 @@ Every section has **optional tracks** so the same notebook works for a mixed-ski
 
 Progress trackers and checkpoints throughout keep the group paced together; the optional cells never block anyone from moving on.
 
-## Facilitator script
-
-`Facilitator_Script.html` is a standalone, printable companion for whoever is running the session: minute-by-minute talking points, expected outputs, and what to do if the room is running behind or ahead. Open it in a browser — no server needed.
-
 ## Requirements
 
 Python 3.10+, with `pandas`, `numpy`, `matplotlib`, `scikit-learn`, and `scipy`. See `requirements.txt`. All of these come preinstalled in Google Colab, so Option 1 needs no setup at all.
